@@ -1,4 +1,4 @@
-# A simple example of how to apply inversion of control usin tsyringe lib
+# A simple example of how to apply inversion of control using tsyringe lib
 
 - To test it you just need to change IOC_CONTAINER.ts file. 
 - Uncomment the code below "Using MySql" and comment the code below "Using MongoDb" to change database.
